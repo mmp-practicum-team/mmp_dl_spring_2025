@@ -43,8 +43,8 @@
 | Дата | Номер | Тема | Материалы | ДЗ |
 | :---: | :---: | --- | --- | --- |
 | 10 февраля | Лекция  01 | Введение в DL | [Конспект](./Seminars/01-intro-to-dl/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 13 февраля | Семинар 01 |  Backpropagation | [Конспект](./Seminars/02-autograd/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 17 февраля | Лекция  02 | Регуляризация | [Конспект](./Seminars/03-regularization/notes.ipynb) | [Полносвязная нейронная сеть на numpy]() |
+| 13 февраля | Семинар 01 | Backpropagation | [Конспект](./Seminars/02-autograd/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
+| 17 февраля | Лекция  02 | Регуляризация | [Конспект](./Seminars/03-regularization/notes.ipynb) | [Полносвязная нейронная сеть на numpy](https://github.com/mmp-practicum-team/mmp_dl_spring_2025/blob/main/Tasks/task1/task_01.ipynb) |
 | 17 февраля | Лекция  03 | Оптимизаторы | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 20 февраля | Семинар 02 | PyTorch | ¯\\\_(ツ)\_/¯ | [Простейшая нейронная сеть на Pytorch]() |
 | 24 февраля | Лекция  04 | <ul><li>Сверточные нейронные сети</li><li>Сегментация</li><li>Transfer Learning</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
