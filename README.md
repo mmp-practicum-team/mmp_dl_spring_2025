@@ -50,7 +50,7 @@
 | 20 февраля | Семинар 03 | PyTorch | [Конспект](./Seminars/06-pytorch/Основы_Pytorch.ipynb) | [Простейшая нейронная сеть на Pytorch](./Tasks/task1_5/task_01.5_empty.ipynb) |
 | 24 февраля | Лекция  04 | <ul><li>Сверточные нейронные сети</li><li>Сверточные архитектуры</li><li>Transfer Learning</li></ul> | <ul><li>[Конспект .ipynb](./Seminars/07-cnn-transfer-learning/07-cnn.ipynb)</li><li>[Конспект .pdf](./Seminars/07-cnn-transfer-learning/07-cnn.pdf) </li>| ¯\\\_(ツ)\_/¯ |
 | 25 февраля | Семинар 04 | <ul><li>Цикл обучения в Pytorch</li><li>CNN для классификации</li><li>Transfer Learning</li></ul> | [Конспект](./Seminars/08-training/08-training.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 3 марта    | Лекция  05 | Задачи компьютерного зрения: сегментация, детекция, трекинг | ¯\\\_(ツ)\_/¯ | [Сегментация изображений](./Tasks/task2/task_02.ipynb) |
+| 3 марта    | Лекция  05 | Задачи компьютерного зрения: детекция и семантическая сегментация | [Конспект](./Seminars/10-cv-advanced-tasks/10-cv-advanced-tasks.ipynb) | [Сегментация изображений](./Tasks/task2/task_02.ipynb) |
 | 4 марта    | Семинар 05 | <ul><li>Семантическая сегментация</li><li>Детекция объектов</li><li>Регуляризация свёрточных слоев</li></ul>  | [Конспект](Seminars/09-segmentation/09-segmentation.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 10 марта   | Лекция  06 | <ul><li>Эмбединги слов</li><li>Дистрибутивная гипотеза</li><li>word2vec</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 11 марта   | Семинар 06 | Работа с эмбедингами | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
