@@ -56,7 +56,7 @@
 | 11 марта   | Семинар 06 | Работа с эмбедингами | [Конспект](./Seminars/12-embedding-practice/12-embedding-practice.ipynb)  | ¯\\\_(ツ)\_/¯ |
 | 17 марта   | Лекция  07 | Рекуррентные сети: теория | [Конспект](./Seminars/13-rnn-lecture/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 18 марта   | Семинар 07 | Рекуррентные сети: практика | [Ноутбук](./Seminars/14-rnn-seminar/rnn.ipynb) | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task_03.ipynb) |
-| 24 марта   | Лекция  08 | <ul><li>Токенизаторы</li><li>Трансформеры</li><li>Теория MHSA, MHCA</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 24 марта   | Лекция  08 | Трансформеры: теория | [Конспект](./Seminars/15-transformer-lecture/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 25 марта   | Семинар 08 | <ul><li>Bert</li><li>GPT</li><li>MoE</li></ul> | ¯\\\_(ツ)\_/¯ | [Hugging Face NLP]() |
 | 31 марта   | Лекция  09 | <ul><li>Трансформеры</li><li>Transfer Learning</li><li>Transformers</li></ul>  | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 1 апреля   | Семинар 09 | Transformers: практика | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
