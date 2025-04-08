@@ -60,8 +60,8 @@
 | 25 марта   | Семинар 08 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Ноутбук](./Seminars/16-transformer-seminar/seminar.ipynb) | [Hugging Face NLP](./Tasks/task3_5/task_03_5.ipynb) |
 | 31 марта   | Лекция  09 | <ul><li>Трансформеры</li><li>Transfer Learning</li><li>Transformers</li></ul>  | [Конспект](./Seminars/17-finetune-lecture/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 1 апреля   | Семинар 09 | Transformers: практика | [Ноутбук](./Seminars/18-finetune-seminar/sem.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 7 апреля   | Лекция  10 |  <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
-| 8 апреля   | Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> | ¯\\\_(ツ)\_/¯ | [Денойзинг аудио. Conformer](./Tasks/task4/task_04.ipynb) |
+| 11 апреля   | Лекция  10 |  <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 11 апреля   | Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> | ¯\\\_(ツ)\_/¯ | [Денойзинг аудио. Conformer](./Tasks/task4/task_04.ipynb) |
 | 14 апреля  | Лекция  11 |  <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 15 апреля  | Семинар 11 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | ¯\\\_(ツ)\_/¯ | [pi-GAN]() |
 | 21 апреля  | Лекция  12 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
