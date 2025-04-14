@@ -62,7 +62,7 @@
 | 1 апреля   | Семинар 09 | Transformers: практика | [Ноутбук](./Seminars/18-finetune-seminar/sem.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 11 апреля   | Лекция  10 |  <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 11 апреля   | Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> | ¯\\\_(ツ)\_/¯ | [Денойзинг аудио. Conformer](./Tasks/task4/task_04.ipynb) |
-| 14 апреля  | Лекция  11 |  <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 14 апреля  | Лекция  11 |  <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Ноутбук](./Seminars/21-generative-adversarial-networks/21-generative-adversarial-networks.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 15 апреля  | Семинар 11 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | ¯\\\_(ツ)\_/¯ | [pi-GAN]() |
 | 21 апреля  | Лекция  12 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 22 апреля  | Семинар 12 | Практика мультимодальных LLM | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
