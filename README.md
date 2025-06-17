@@ -65,8 +65,8 @@
 | 14 апреля  | Лекция  11 |  <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Ноутбук](./Seminars/21-generative-adversarial-networks/21-generative-adversarial-networks.ipynb) | ¯\\\_(ツ)\_/¯ |
 | 15 апреля  | Семинар 11 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Ноутбук](./Seminars/22-gan-practice/gan-practice.ipynb) | [pi-GAN](./Tasks/task5/task_05.ipynb) |
 | 15 апреля  | Лекция  12 | <ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul> | [Ноутбук](./Seminars/23-nerf/nerf.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 21 апреля  | Лекция  13 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
-| 22 апреля  | Семинар 13 | Практика мультимодальных LLM | [Слайды](./Seminars/24-vlm/vlm.pdf) |[Ноутбук](./Seminars/25-vlm-practice/CLIP.ipynb) |
+| 21 апреля  | Лекция  13 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul> | [Слайды](./Seminars/24-vlm/vlm.pdf) | ¯\\\_(ツ)\_/¯ |
+| 22 апреля  | Семинар 13 | Практика мультимодальных LLM | [Ноутбук](./Seminars/25-vlm-practice/CLIP.ipynb)|  ¯\\\_(ツ)\_/¯ |
 | 28 апреля  | Лекция  14 | GNN | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 29 апреля  | Лекция  15 | VAR | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
 | 29 апреля  | Лекция  16 | Табличные данные | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
