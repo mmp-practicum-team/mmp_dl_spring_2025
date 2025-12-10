@@ -40,7 +40,7 @@
 
 ## Занятия
 
-| Дата | Номер | Тема | Материалы | Запись | ДЗ |
+| Дата | Номер | Тема | Материалы | Видеозапись | ДЗ |
 | :---: | :---: | --- | --- | --- | --- |
 | 10 февраля | Лекция  01 | Введение в DL | [Конспект](./Seminars/01-intro-to-dl/notes.ipynb) | [Запись](https://www.youtube.com/watch?v=yoIR4aGlZO4&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) |  ¯\\\_(ツ)\_/¯ |
 | 10 февраля | Семинар 01 | Backpropagation | [Конспект](./Seminars/02-autograd/notes.ipynb) | [Запись](https://www.youtube.com/watch?v=yoIR4aGlZO4&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
