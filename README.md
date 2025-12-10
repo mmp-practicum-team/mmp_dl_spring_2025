@@ -40,36 +40,36 @@
 
 ## Занятия
 
-| Дата | Номер | Тема | Материалы | ДЗ |
-| :---: | :---: | --- | --- | --- |
-| 10 февраля | Лекция  01 | Введение в DL | [Конспект](./Seminars/01-intro-to-dl/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 10 февраля | Семинар 01 | Backpropagation | [Конспект](./Seminars/02-autograd/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 13 февраля | Лекция  02 | Регуляризация | [Конспект](./Seminars/03-regularization/notes.ipynb) | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task_01.ipynb) |
-| 13 февраля | Семинар 02 | Автоматическое дифференцирование | [Конспект](./Seminars/04-autodiff/autodiff.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 17 февраля | Лекция  03 | Оптимизаторы | [Конспект](./Seminars/05-optimizers/Оптимизация_в_DL.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 20 февраля | Семинар 03 | PyTorch | [Конспект](./Seminars/06-pytorch/Основы_Pytorch.ipynb) | [Простейшая нейронная сеть на Pytorch](./Tasks/task1_5/task_01.5_empty.ipynb) |
-| 24 февраля | Лекция  04 | <ul><li>Сверточные нейронные сети</li><li>Сверточные архитектуры</li><li>Transfer Learning</li></ul> | <ul><li>[Конспект .ipynb](./Seminars/07-cnn-transfer-learning/07-cnn.ipynb)</li><li>[Конспект .pdf](./Seminars/07-cnn-transfer-learning/07-cnn.pdf) </li>| ¯\\\_(ツ)\_/¯ |
-| 25 февраля | Семинар 04 | <ul><li>Цикл обучения в Pytorch</li><li>CNN для классификации</li><li>Transfer Learning</li></ul> | [Конспект](./Seminars/08-training/08-training.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 3 марта    | Лекция  05 | Задачи компьютерного зрения: детекция и семантическая сегментация | [Конспект](./Seminars/10-cv-advanced-tasks/10-cv-advanced-tasks.ipynb) | [Сегментация изображений](./Tasks/task2/task_02.ipynb) |
-| 4 марта    | Семинар 05 | <ul><li>Семантическая сегментация</li><li>Детекция объектов</li><li>Регуляризация свёрточных слоев</li></ul>  | [Конспект](Seminars/09-segmentation/09-segmentation.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 11 марта   | Лекция  06 | <ul><li>Эмбединги слов</li><li>Дистрибутивная гипотеза</li><li>word2vec</li></ul> | [Конспект](./Seminars/11-embedding/11-embedding.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 11 марта   | Семинар 06 | Работа с эмбедингами | [Конспект](./Seminars/12-embedding-practice/12-embedding-practice.ipynb)  | ¯\\\_(ツ)\_/¯ |
-| 17 марта   | Лекция  07 | Рекуррентные сети: теория | [Конспект](./Seminars/13-rnn-lecture/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 18 марта   | Семинар 07 | Рекуррентные сети: практика | [Ноутбук](./Seminars/14-rnn-seminar/rnn.ipynb) | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task_03.ipynb) |
-| 24 марта   | Лекция  08 | Трансформеры: теория | [Конспект](./Seminars/15-transformer-lecture/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 25 марта   | Семинар 08 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Ноутбук](./Seminars/16-transformer-seminar/seminar.ipynb) | [Hugging Face NLP](./Tasks/task3_5/task_03_5.ipynb) |
-| 31 марта   | Лекция  09 | <ul><li>Трансформеры</li><li>Transfer Learning</li><li>Transformers</li></ul>  | [Конспект](./Seminars/17-finetune-lecture/notes.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 1 апреля   | Семинар 09 | Transformers: практика | [Ноутбук](./Seminars/18-finetune-seminar/sem.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 11 апреля   | Лекция  10 |  <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
-| 11 апреля   | Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> | ¯\\\_(ツ)\_/¯ | [Денойзинг аудио. Conformer](./Tasks/task4/task_04.ipynb) |
-| 14 апреля  | Лекция  11 |  <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Ноутбук](./Seminars/21-generative-adversarial-networks/21-generative-adversarial-networks.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 15 апреля  | Семинар 11 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Ноутбук](./Seminars/22-gan-practice/gan-practice.ipynb) | [pi-GAN](./Tasks/task5/task_05.ipynb) |
-| 15 апреля  | Лекция  12 | <ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul> | [Ноутбук](./Seminars/23-nerf/nerf.ipynb) | ¯\\\_(ツ)\_/¯ |
-| 21 апреля  | Лекция  13 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul> | [Слайды](./Seminars/24-vlm/vlm.pdf) | ¯\\\_(ツ)\_/¯ |
-| 22 апреля  | Семинар 13 | Практика мультимодальных LLM | [Ноутбук](./Seminars/25-vlm-practice/CLIP.ipynb)|  ¯\\\_(ツ)\_/¯ |
-| 28 апреля  | Лекция  14 | GNN | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
-| 29 апреля  | Лекция  15 | VAR | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
-| 29 апреля  | Лекция  16 | Табличные данные | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| Дата | Номер | Тема | Материалы | Запись | ДЗ |
+| :---: | :---: | --- | --- | --- | --- |
+| 10 февраля | Лекция  01 | Введение в DL | [Конспект](./Seminars/01-intro-to-dl/notes.ipynb) | [Запись](https://www.youtube.com/watch?v=yoIR4aGlZO4&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) |  ¯\\\_(ツ)\_/¯ |
+| 10 февраля | Семинар 01 | Backpropagation | [Конспект](./Seminars/02-autograd/notes.ipynb) | [Запись](https://www.youtube.com/watch?v=yoIR4aGlZO4&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 13 февраля | Лекция  02 | Регуляризация | [Конспект](./Seminars/03-regularization/notes.ipynb) | [Запись](https://www.youtube.com/watch?v=yZdOIA6-XKk&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | [Полносвязная нейронная сеть на numpy](./Tasks/task1/task_01.ipynb) |
+| 13 февраля | Семинар 02 | Автоматическое дифференцирование | [Конспект](./Seminars/04-autodiff/autodiff.ipynb) | [Запись](https://www.youtube.com/watch?v=1Afay-iQmys&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 17 февраля | Лекция  03 | Оптимизаторы | [Конспект](./Seminars/05-optimizers/Оптимизация_в_DL.ipynb) | [Запись](https://www.youtube.com/watch?v=NoX9B-kAhL8&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 20 февраля | Семинар 03 | PyTorch | [Конспект](./Seminars/06-pytorch/Основы_Pytorch.ipynb) | [Часть 1](https://www.youtube.com/watch?v=ATXuyMVU3Kc&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) [Часть 2](https://www.youtube.com/watch?v=2tG9wztwyHE&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | [Простейшая нейронная сеть на Pytorch](./Tasks/task1_5/task_01.5_empty.ipynb) |
+| 24 февраля | Лекция  04 | <ul><li>Сверточные нейронные сети</li><li>Сверточные архитектуры</li><li>Transfer Learning</li></ul> | <ul><li>[Конспект .ipynb](./Seminars/07-cnn-transfer-learning/07-cnn.ipynb)</li><li>[Конспект .pdf](./Seminars/07-cnn-transfer-learning/07-cnn.pdf) </li>| [Часть 1](https://www.youtube.com/watch?v=LRWk4Nh-Wag&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) [Часть 2](https://www.youtube.com/watch?v=PV_ha5XOJdE&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 25 февраля | Семинар 04 | <ul><li>Цикл обучения в Pytorch</li><li>CNN для классификации</li><li>Transfer Learning</li></ul> | [Конспект](./Seminars/08-training/08-training.ipynb) | [Запись](https://www.youtube.com/watch?v=PV_ha5XOJdE&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 3 марта    | Лекция  05 | Задачи компьютерного зрения: детекция и семантическая сегментация | [Конспект](./Seminars/10-cv-advanced-tasks/10-cv-advanced-tasks.ipynb) | [Запись](https://www.youtube.com/watch?v=mm7hp_Bt_38&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | [Сегментация изображений](./Tasks/task2/task_02.ipynb) |
+| 4 марта    | Семинар 05 | <ul><li>Семантическая сегментация</li><li>Детекция объектов</li><li>Регуляризация свёрточных слоев</li></ul>  | [Конспект](Seminars/09-segmentation/09-segmentation.ipynb) | [Запись](https://www.youtube.com/watch?v=N2-NyBZupUQ&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 11 марта   | Лекция  06 | <ul><li>Эмбединги слов</li><li>Дистрибутивная гипотеза</li><li>word2vec</li></ul> | [Конспект](./Seminars/11-embedding/11-embedding.ipynb) | [Запись](https://www.youtube.com/watch?v=BN3epKGYiko&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 11 марта   | Семинар 06 | Работа с эмбедингами | [Конспект](./Seminars/12-embedding-practice/12-embedding-practice.ipynb)  | [Запись](https://www.youtube.com/watch?v=7aaJB7OQtAo&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 17 марта   | Лекция  07 | Рекуррентные сети: теория | [Конспект](./Seminars/13-rnn-lecture/notes.ipynb) | [Запись](https://www.youtube.com/watch?v=01ju7JdypT4&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 18 марта   | Семинар 07 | Рекуррентные сети: практика | [Ноутбук](./Seminars/14-rnn-seminar/rnn.ipynb) | ¯\\\_(ツ)\_/¯ | [Рекуррентные Нейронные Сети. Dropout. LM](./Tasks/task3/task_03.ipynb) |
+| 24 марта   | Лекция  08 | Трансформеры: теория | [Конспект](./Seminars/15-transformer-lecture/notes.ipynb) | [Запись](https://www.youtube.com/watch?v=uY48_LUa3uQ&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 25 марта   | Семинар 08 | <ul><li>Bert</li><li>GPT</li><li>seq2seq</li></ul> | [Ноутбук](./Seminars/16-transformer-seminar/seminar.ipynb) | ¯\\\_(ツ)\_/¯ | [Hugging Face NLP](./Tasks/task3_5/task_03_5.ipynb) |
+| 31 марта   | Лекция  09 | <ul><li>Трансформеры</li><li>Transfer Learning</li><li>Transformers</li></ul>  | [Конспект](./Seminars/17-finetune-lecture/notes.ipynb) | [Запись](https://www.youtube.com/watch?v=s2MLklM0W9c&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 1 апреля   | Семинар 09 | Transformers: практика | [Ноутбук](./Seminars/18-finetune-seminar/sem.ipynb) | ¯\\\_(ツ)\_/¯ |  ¯\\\_(ツ)\_/¯ |
+| 11 апреля   | Лекция  10 |  <ul><li>Обработка сигналов</li><li>Представления звука: Waveform, Спектрограмы</li><li>ASR: CTC, LAS, RNN-T</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ |
+| 11 апреля   | Семинар 10 | <ul><li>ASR: CTC, LAS, RNN-T</li><li>Аугментации</li></ul> | ¯\\\_(ツ)\_/¯ | ¯\\\_(ツ)\_/¯ | [Денойзинг аудио. Conformer](./Tasks/task4/task_04.ipynb) |
+| 14 апреля  | Лекция  11 |  <ul><li>Задачи генеративного моделирования</li><li>GAN</li><li>WGAN</li></ul> | [Ноутбук](./Seminars/21-generative-adversarial-networks/21-generative-adversarial-networks.ipynb) | [Запись](https://www.youtube.com/watch?v=KfcuRcFdU-8&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 15 апреля  | Семинар 11 | <ul><li>Обучение GAN</li><li>Архитектуры</li></ul> | [Ноутбук](./Seminars/22-gan-practice/gan-practice.ipynb) | [Запись](https://www.youtube.com/watch?v=9icVjqErRpQ&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | [pi-GAN](./Tasks/task5/task_05.ipynb) |
+| 15 апреля  | Лекция  12 | <ul><li>Неявные представления в 3Д</li><li>Нейронные поля</li><li>NERF</li></ul> | [Ноутбук](./Seminars/23-nerf/nerf.ipynb) | [Запись](https://www.youtube.com/watch?v=ZUTvboCw4wM&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 21 апреля  | Лекция  13 | <ul><li>Vision Transformers</li><li>Мультимодальные LLM</li><li>CLIP</li><li>LLaVA-based подход</li></ul> | [Слайды](./Seminars/24-vlm/vlm.pdf) | [Запись](https://www.youtube.com/watch?v=JfqZyu1cGWw&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 22 апреля  | Семинар 13 | Практика мультимодальных LLM | [Ноутбук](./Seminars/25-vlm-practice/CLIP.ipynb)| [Запись](https://www.youtube.com/watch?v=FQ8Oauy12WA&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 28 апреля  | Лекция  14 | GNN | ¯\\\_(ツ)\_/¯ | [Запись](https://www.youtube.com/watch?v=q1j-ob_Py48&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 29 апреля  | Лекция  15 | VAR | ¯\\\_(ツ)\_/¯ | [Запись](https://www.youtube.com/watch?v=nl0SO9S9d-I&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
+| 29 апреля  | Лекция  16 | Табличные данные | ¯\\\_(ツ)\_/¯ | [Запись](https://www.youtube.com/watch?v=lmJb3-lpfz4&list=PLhe7c-LCgl4KwT79snoGNghBXpJZucISf) | ¯\\\_(ツ)\_/¯ |
 
 
 ## Формат сдачи курса
